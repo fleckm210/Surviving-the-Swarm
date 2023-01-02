@@ -1,0 +1,13 @@
+Zombie Survival RTS:
+1.There will be 2 main entities:
+	1.Units
+		1.Zombies are the main adversary in the game. When alerted, they will work tirelessly to wipe your colony from existence
+		2.Soldiers protect your colony and its workers from zombies. Soldiers can be in infantry regiments of can be assigned to fixed fortifications such as on walls
+		3.Workers build buildings and make the utility buildings function
+	2.Buildings
+		1.Farm: gives food
+		2.Mine: gives metal
+		3.Munitions Factory: turns metal into Munitions
+		4.power plant: gives power to all other buildings
+		5.training grounds
+		6.walls

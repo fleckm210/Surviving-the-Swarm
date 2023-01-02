@@ -1,0 +1,80 @@
+Zombie Survival RTS:
+1.Setting
+
+	1.Post-Apocolyptic
+	2.From Space Station
+	3.Areas:
+		1.Basic forest
+			1.Surrounded by forest
+			2.Plains in the middle
+		2.Urban
+			1.Surrounded by buildings
+			
+2.Modes
+
+	1.Survival-Lasting as long as possible
+		1.Build a Barracks to train soldiers and increase pop. Limit with houses
+		2.Call in AirStrikes from Space Station with Relay Outpost
+		3.Cure zombies:Experimental-Not For Sure 
+			1.Need energy
+				1.Collect Energy by building solar panels
+			2.Need food
+				1.Collect food by finding it around it around the map
+					1.Find it by recon of the map
+					2.Collect with vehicles 
+						1.Is Faster with Vehicles
+						2.Is optional
+
+					3.Randomly generated in especially flat areas 
+						1.ten zones
+							1. 3 to start off with in the middle(or wherever you spawn) 
+							2. 4 in the outer ring
+							3. 3 in the surrounding forest
+
+						2.randomly appear after a time within  
+							1. 15 to
+							2. 60 seconds
+
+				2.Collect food by calling in airdrops
+					1.Need relay outpost
+						1.Need Metal
+						2.Need Energy
+
+					2.Need Launch pad
+						1.Need Metal
+							1.Collect metal by building a mine
+								1.Need Metal
+								2.Need Energy
+
+							2.Collect metal by recycling destroyed buildings or vehicles 
+
+						2.Need Energy
+
+		4.Cloaking
+			1.Cloaking takes a lot of power
+			2.Zombies Cannot see you while cloaking
+			3.Cannot collect power while cloaking
+
+	2.Blitz-Compete with other players to escape in a space capsule
+		1.Stores of food will be needed to escape(for the long journey)
+		2.Cooperation is optional so all players can escape together
+			1.You can also just team up with just one person 
+
+		NOTE: over time, zombies will overwhelm you so you have to escape
+
+3.In-Depth Details
+	1.Zombies can Re-Produce by Infecting your Citizens/Soldiers
+	2.View will be a top-down view 
+	3.Resources will include:
+		1.Food: Will feed your citizens
+		2.Metal: Builds Structures and Munitions
+		3.Munitions: Soldiers and Vehicles will be armed with Munitions
+		4.Energy: 
+			1.Powers Structures and Vehicles
+			2.Is needed to build houses
+			3.Collected with solar panels
+	4.Types of Buildings:
+		1.Farm: gives food
+		2.Mine: gives metal
+		3.Munitions Factory: turns metal into Munitions
+		3.power plant: gives power
