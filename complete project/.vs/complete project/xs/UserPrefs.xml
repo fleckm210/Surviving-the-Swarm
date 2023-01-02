@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{50C9756F-1AF7-E2F1-4F24-3A4EE579E282}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/zombie.cs">
+    <Files>
+      <File FileName="Assets/player.cs" Line="20" Column="56" />
+      <File FileName="Assets/zombie.cs" Line="4" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c7d4fed9-5bff-4cdd-a4cb-728a46709f3d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
